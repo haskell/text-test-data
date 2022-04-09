@@ -8,6 +8,5 @@ Master [git repository](https://github.com/haskell/text-test-data):
 
 * `git clone https://github.com/haskell/text-test-data.git`
 
-For instructions, read
-[`README.md`](https://github.com/haskell/text/README.md)
-in the [`text`](https://github.com/haskell/text) repository.
+For instructions, read `README.md` in the
+[`text`](https://github.com/haskell/text) repository.
